@@ -1,0 +1,92 @@
+body{
+    background-color: skyblue;
+}
+.container{
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 20px 10px;
+  background-color: white;
+  border-radius: 10px;
+}
+.section{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    color: green;
+    border-radius: 5px;
+
+}
+.add{
+    border: 1px solid black;
+  border-collapse: collapse;
+  margin-top: 10px;
+  padding: 10px;
+  color: green;
+  border-radius: 5px;
+
+}
+.fam{
+    border: 1px solid black;
+  border-collapse: collapse;
+  margin-top: 10px;
+  padding: 10px;
+  color: green;
+  border-radius: 5px;
+}
+.iden{
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-top: 10px;
+    padding: 10px;
+    color: green;
+    border-radius: 5px;
+
+
+}
+.edu{
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-top: 10px;
+    padding: 10px;
+    color: green; 
+     border-radius: 5px;
+    
+}
+.app{
+    border: 1px solid black;
+  border-collapse: collapse;
+  margin-top: 10px;
+  padding: 10px;
+  color: green;
+  border-radius: 5px;
+
+}
+.fee{
+    border: 1px solid black;
+  border-collapse: collapse;
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 5px;
+
+}
+.com{
+    border: 1px solid black;
+  border-collapse: collapse;
+  margin-top: 10px;
+  padding: 10px;
+  color: skyblue;
+  border-radius: 5px;
+
+}
+.let{
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.bx bx-chevron-up{
+display: flex;
+justify-content: center;
+}
+
