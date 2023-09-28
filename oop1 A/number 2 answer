@@ -1,0 +1,22 @@
+<?php
+//write an example of php script to demonstrate the use of Namespace
+ 
+namespace MyProject;
+
+class MyClass {
+  public function __construct() {
+    echo "MyClass constructor called.\n";
+  }
+}
+
+function myFunction() {
+  echo "myFunction called.\n";
+}
+
+const MY_CONST = 1;
+
+$a = new MyClass;
+$c = new \DateTime();
+myFunction();
+echo MY_CONST . "\n";
+?>
